@@ -1,8 +1,11 @@
-#Case Study Proposal: Unicsoft
+Case Study Proposal: Unicsoft
+---
 What is it
+
 Unicsoft is a trusted technology consulting company, delivering AI and Blockchain solutions to drive business outcomes for startups and enterprises. The Unicsoft team has deep expertise in: Machine Learning, Natural Language Processing, Computer Vision, Blockchain, Big Data, Data Science, Data Analytics fields. They help startups validate ideas, build an MVP, iterate towards reaching product-market fit, and scale fast. For enterprises, we provide technology consulting comprising building business-led solutions and energizing legacy systems that drive business performance and constrain inefficiencies. Unicsoft addresses excellent customer experience as our highest priority. They achieve it via clear and timely communication, transparency in managing customers’ expectations, a highly orchestrated development process, and a pro-active and consistent team.
 
 Why choose this company
+
 Comparing with other companies, Unicsoft's vision interest me. I Believe the company's vision is the core part to drive the business succession. They claim their value as follow:
 
 We get things done We strive for success through proficiency in performance, result-focused attitude and high standards of achievement
@@ -17,7 +20,9 @@ The outcome of the project includes: Digital entities that market players use to
 
 With this project, we can see the impact of Blockchain techonology to general market. Not only the application on financial market, but also for international trading market, for our online trading, even apply to our daliy use. This would be the trend of future life, and the application of this project's successsion would reflect the application of new technology.
 
-#Resources
+Resources
+----
+
 About Unicsoft https://unicsoft.com/about/
 
 Services https://unicsoft.com/
